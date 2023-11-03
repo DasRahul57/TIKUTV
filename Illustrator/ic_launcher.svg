@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 108 108">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="54" y1="33.92" x2="54" y2="73.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00d8ef"/>
+      <stop offset="1" stop-color="#0098ef"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="54.81" y1="44.21" x2="54.81" y2="70.67" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".1" stop-color="#fff" stop-opacity=".98"/>
+      <stop offset=".22" stop-color="#fff" stop-opacity=".92"/>
+      <stop offset=".36" stop-color="#fff" stop-opacity=".81"/>
+      <stop offset=".51" stop-color="#fff" stop-opacity=".67"/>
+      <stop offset=".67" stop-color="#fff" stop-opacity=".49"/>
+      <stop offset=".83" stop-color="#fff" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="50.34" y1="39.64" x2="52.17" y2="64.96" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-3" d="m70.73,47.49c-1.19-1.42-2.66-2.83-4.33-4.17-.02-.01-.04-.03-.05-.04-2.36-1.9-5.09-3.66-7.91-5.13-6.76-3.52-14.02-5.33-17.8-3.14-4.2,2.42-6.41,11.26-6.41,19.87,0,8.39,2.07,16.58,6.41,18.43,1.01.43,2.23.64,3.59.65,1.14-.11,2.29-.25,3.42-.43,1.06-.21,2.13-.47,3.2-.76m0,0c1.23-.33,2.45-.72,3.66-1.15,1-.4,2.01-.85,3.01-1.33,1.98-.95,3.93-2.05,5.76-3.25,1.59-1.04,3.08-2.15,4.41-3.29,3.63-3.13,6.09-6.55,6.11-9.58.01-2.08-1.15-4.38-3.06-6.66m-17.13,7.4-2.29,17.58"/>
+  <path class="cls-1" d="m63.66,50.32l3.29,2.1h0l.36.23c.98.63.98,2.06,0,2.69l-16.47,10.53c-1.01.65-2.34-.08-2.34-1.28v-4.56l15.16-9.71Zm-3.39.39c.94-.6.93-1.97,0-2.56l-16.23-10.38c-1.06-.68-2.46.08-2.46,1.35v4.45l14.95,9.54,3.73-2.39Zm-16.23,19.51l2.96-1.89v-19.53l-3.08-1.96c-1.01-.65-2.34.08-2.34,1.28v20.76c0,1.26,1.39,2.02,2.46,1.35Z"/>
+  <polygon class="cls-2" points="48.56 57.78 54.47 54 48.56 50.22 48.56 57.78"/>
+</svg>
